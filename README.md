@@ -15,4 +15,4 @@ By working with sets via the PIE menu (opened by pressing Shift+E), you can swit
 The entire process is intuitive, saving you time on complex modeling or animation tasks.
 
 Tutorial:
-[![Video Title](https://github.com/WillyamBradberry/Blender/blob/main/0279.jpg)](https://youtu.be/bhcWKYgJu90)
+[![Video Title](https://github.com/WillyamBradberry/Blender/blob/main/quick-set-addon-cover.jpg)](https://youtu.be/bhcWKYgJu90)
